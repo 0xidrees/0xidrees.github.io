@@ -29,11 +29,11 @@ I am an aspiring cybersecurity professional with a strong foundation in **SOC op
 ### 1. 🏢 Enterprise SIEM Implementation
 **Technologies**: `Wazuh` `ELK Stack` `Ubuntu Server` `Windows` `Kali Linux`
 
-Deployed Wazuh SIEM on Windows VM and configured comprehensive log ingestion from multiple sources including Windows security events and network traffic.
+Deployed Wazuh SIEM on Ubuntu-Server VM and configured comprehensive log ingestion from multiple sources including Windows security events and network traffic.
 
 **Key Achievements**:
 - ✅ Successfully deployed and configured Wazuh SIEM stack
-- ✅ Integrated log ingestion from Windows 10 and Kali Linux VMs
+- ✅ Integrated log ingestion from Windows 10 and Attacking done through Kali Linux
 - ✅ Created custom detection rules for brute-force attacks
 - ✅ Mapped alerts to MITRE ATT&CK framework
 
