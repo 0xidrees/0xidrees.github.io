@@ -88,7 +88,7 @@ Discovered and responsibly disclosed critical Insecure Direct Object Reference v
 | 🎓 **Cybersecurity Micro Credit Program** | IIT Guwahati (with AccioJob) | 🟡 Ongoing |
 | 🔐 **Junior Penetration Tester** | TryHackMe | ✅ Completed |
 | 🛡️ **SOC Level 1** | TryHackMe | ✅ Completed |
-| 🌐 **Fortinet NSE 1, 2, 3** | Fortinet | 🟡 In Progress |
+| 🌐 **Fortinet Certified Fundamentals in Cybersecurity** | Fortinet | ✅ Completed |
 
 ## 🎓 Education
 
